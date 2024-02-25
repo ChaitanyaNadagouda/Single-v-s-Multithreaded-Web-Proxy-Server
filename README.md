@@ -1,4 +1,4 @@
- Multithreaded Web Proxy Server Performance Comparison
+# Multithreaded Web Proxy Server Performance Comparison
 
 Welcome to the Multithreaded Web Proxy Server Performance Comparison project! This repository contains code for comparing the performance of single-threaded and multithreaded web servers implemented using the executor service. Through this project, you'll gain insights into how concurrency affects the performance of web servers and understand the trade-offs between different server architectures.
 
@@ -24,7 +24,7 @@ javac *.java
   To start the multithreaded server:
   java MultiThreadedServer
 
-5)Set up Apache JMeter:
+# Set up Apache JMeter:
 
    1)Download and install Apache JMeter from here.
 
@@ -40,7 +40,7 @@ javac *.java
 
    7)Run the test in JMeter and observe the performance metrics.
 
-What You'll Learn
+# What You'll Learn
 By exploring this project, you'll learn:
 
 The impact of concurrency on the performance of web servers.
