@@ -26,19 +26,19 @@ javac *.java
 
 5)Set up Apache JMeter:
 
-1)Download and install Apache JMeter from here.
+   1)Download and install Apache JMeter from here.
 
-2)Open JMeter and create a new Test Plan.
+   2)Open JMeter and create a new Test Plan.
 
-3)Add a Thread Group to the Test Plan to simulate concurrent users.
+   3)Add a Thread Group to the Test Plan to simulate concurrent users.
 
-4)Configure HTTP Request Defaults with the server's hostname and port.
+   4)Configure HTTP Request Defaults with the server's hostname and port.
 
-5)Add HTTP Request Sampler to send requests to the server.
+   5)Add HTTP Request Sampler to send requests to the server.
 
-6)Add listeners like Results Tree, Graphs, and Tables to analyze the results.
+   6)Add listeners like Results Tree, Graphs, and Tables to analyze the results.
 
-7)Run the test in JMeter and observe the performance metrics.
+   7)Run the test in JMeter and observe the performance metrics.
 
 What You'll Learn
 By exploring this project, you'll learn:
