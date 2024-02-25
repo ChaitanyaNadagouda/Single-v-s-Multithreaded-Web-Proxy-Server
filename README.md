@@ -26,7 +26,7 @@ javac *.java
 
 # Set up Apache JMeter:
 
-   1)Download and install Apache JMeter from here.
+   1)Download and install Apache JMeter from here (https://jmeter.apache.org/download_jmeter.cgi)
 
    2)Open JMeter and create a new Test Plan.
 
